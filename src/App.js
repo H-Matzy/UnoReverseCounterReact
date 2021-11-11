@@ -21,6 +21,9 @@ function App() {
           alt={"An Uno Reverse Card"}
         ></img>
       </div>
+      <div className={"cardTitleBar"}>
+        <h1 className={"cardTitle"}>Click to Reverse Counters</h1>
+      </div>
 
       <BackwardCounter direction={direction} />
     </React.Fragment>

@@ -5,3 +5,8 @@
 .cardContainer {
   display: flex;
 }
+
+.cardTitleBar {
+  display: flex;
+  justify-content: center;
+}
