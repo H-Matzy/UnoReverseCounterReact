@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/UnoReverseCounterReact/static/css/main.0a28ec60.chunk.css",
+    "main.js": "/UnoReverseCounterReact/static/js/main.ef9dd336.chunk.js",
+    "main.js.map": "/UnoReverseCounterReact/static/js/main.ef9dd336.chunk.js.map",
+    "runtime-main.js": "/UnoReverseCounterReact/static/js/runtime-main.1815554b.js",
+    "runtime-main.js.map": "/UnoReverseCounterReact/static/js/runtime-main.1815554b.js.map",
+    "static/js/2.abbf78fe.chunk.js": "/UnoReverseCounterReact/static/js/2.abbf78fe.chunk.js",
+    "static/js/2.abbf78fe.chunk.js.map": "/UnoReverseCounterReact/static/js/2.abbf78fe.chunk.js.map",
+    "index.html": "/UnoReverseCounterReact/index.html",
+    "static/css/main.0a28ec60.chunk.css.map": "/UnoReverseCounterReact/static/css/main.0a28ec60.chunk.css.map",
+    "static/js/2.abbf78fe.chunk.js.LICENSE.txt": "/UnoReverseCounterReact/static/js/2.abbf78fe.chunk.js.LICENSE.txt",
+    "static/media/uno-reverse-card-meme-512x512.706951ee.png": "/UnoReverseCounterReact/static/media/uno-reverse-card-meme-512x512.706951ee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1815554b.js",
+    "static/js/2.abbf78fe.chunk.js",
+    "static/css/main.0a28ec60.chunk.css",
+    "static/js/main.ef9dd336.chunk.js"
+  ]
+}
