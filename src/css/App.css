@@ -1,0 +1,7 @@
+.reverseCard {
+  display: block;
+  margin: auto;
+}
+.cardContainer {
+  display: flex;
+}
